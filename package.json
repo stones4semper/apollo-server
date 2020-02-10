@@ -34,7 +34,7 @@
     "mysql2": "^1.6.4",
     "random-words": "^1.1.0",
     "redis": "^2.8.0",
-    "sequelize": "^4.39.0",
+    "sequelize": "^5.15.1",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
